@@ -1,0 +1,3 @@
+<?php 
+
+$connect= mysqli_connect("localhost","kawthar","Apply@websit3","jobbi");
